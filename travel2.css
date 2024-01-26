@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container {
+    width: 1200;
+    margin: 0 auto;
+}
+
+.case{
+    color: orange;
+}
+
+ul, li{
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+    padding: 20px 30px;
+   
+}
+
+.top{
+    
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 70px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    color: white;
+    padding: 70px 170px;
+}
+
+.sag{
+    border-radius: 80px;
+    background-color: rgb(73, 147, 249);
+    height: 45px;
+    width: 200px;
+    color: white;
+    border: 0;
+   position: absolute;
+   top: 400px;
+   left: 170px;
+}
+
+.box-1 {
+    background-image: url(./Rectangle\ 1.jpg);
+    height: 610px;
+    
+}
+
+
+
+
+
+
+
+.box-2{
+    background-image: url(./Rectangle\ 13.png);
+    background-repeat: no-repeat;
+    height: 495px;
+    width: 360px;
+    border-radius: 10px;
+    margin-bottom: 170px;
+    position: relative;
+    top: 44px;
+    left: 85px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 90;
+    padding: 20px;
+    
+    
+
+
+}
+
+.box-3 {
+    background-image: url(./Rectangle\ 13\ \(1\).png);
+    background-repeat: no-repeat;
+    height: 520px;
+    width: 360px;
+    border-radius: 10px;
+    background-position: 0px;
+    margin: 0 auto;
+    position: relative;
+    top: -637px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 90;
+    padding: 20px;
+
+}
+
+.box-4 {
+    background-image: url(./Rectangle\ 13\ \(2\).png);
+    background-repeat: no-repeat;
+    height: 520px;
+    width: 360px;
+    border-radius: 10px;
+    margin: 0 865px;
+    position: relative;
+    top: -1145px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 90;
+    padding: 20px;
+    
+    
+}
+
+
+
+    bx-2
+.fam{
+    
+}
+
+.pen{
+    margin-top:145px;
+    color: rgb(255, 208, 0);
+}
+
+.big{
+    margin-top: 10px;
+}
+
+.dom {
+    margin-top: 20px;
+}
+
+.tel{
+    border-radius: 80px;
+    background-color: rgb(73, 147, 249);
+    height: 45px;
+    width: 200px;
+    color: white;
+    border: 0;
+    margin-top: 35px;
+    margin-left: 1px;
+
+}
+
+
+
+    bx-3
+.tab{
+
+}
+
+.fill{
+    color: rgb(255, 208, 0);
+    margin-top:160px;
+}
+
+.yum{
+    margin-top: 15px;
+
+}
+
+.star{
+    margin-top: 13px;
+}
+
+.fem {
+    border-radius: 80px;
+    background-color: rgb(73, 147, 249);
+    height: 45px;
+    width: 200px;
+    color: white;
+    border: 0;
+    margin-top: 20px;
+    margin-left: 1px;
+}
+
+
+
+   bx-4
+.mine{
+    
+
+}
+
+
+
+.bit{
+    color: rgb(255, 208, 0);
+    margin-top: 150px;
+}
+
+.ham{
+    margin-top: 10px;
+
+}
+
+.tim{
+    margin-top: 15px;
+}
+
+.hos{
+    border-radius: 80px;
+    background-color: rgb(73, 147, 249);
+    height: 45px;
+    width: 200px;
+    color: white;
+    border: 0;
+    margin-top: 35px;
+    margin-left: 1px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fill {
+
+}
+
+.bit{
+
+}
+
+.box-5 {
+    background-image: url(./Rectangle\ 4.png);
+    height: 610px;
+    
+    background-color: rgb(231, 225, 225);
+}
+
+
+
+
+
+
